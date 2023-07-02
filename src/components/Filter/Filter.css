@@ -1,0 +1,28 @@
+.accordion-item {
+  background-color: var(--third-color) !important;
+  border-color: var(--third-color) !important;
+}
+
+.accordion-button {
+  background-color: var(--second-color) !important;
+  box-shadow: none !important;
+  color: white !important;
+}
+
+select {
+  background-color: var(--second-color) !important;
+  box-shadow: none !important;
+  border: none !important;
+  color: white !important;
+}
+
+input[type="radio"] {
+  display: none;
+}
+
+.form-check-input:checked + label {
+  background-color: var(--fourth-color);
+  color: white;
+  border: none;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}

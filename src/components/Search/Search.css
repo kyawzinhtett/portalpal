@@ -1,0 +1,12 @@
+.search {
+  background-color: var(--second-color) !important;
+  color: white !important;
+  border: none !important;
+  outline: none !important;
+  caret-color: var(--fourth-color);
+  padding: 10px 15px !important;
+}
+
+.search::placeholder {
+  color: var(--third-color) !important;
+}

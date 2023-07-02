@@ -1,0 +1,21 @@
+.pagination .page-link {
+  background-color: var(--second-color) !important;
+  color: white !important;
+  border: none !important;
+}
+
+.pagination .active a {
+  background-color: var(--fourth-color) !important;
+}
+
+.pagination .page-link,
+.pagination .page-item {
+  box-shadow: none !important;
+}
+
+@media (max-width: 768px) {
+  .previous,
+  .next {
+    display: none;
+  }
+}

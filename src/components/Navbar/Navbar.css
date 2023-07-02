@@ -1,0 +1,20 @@
+#navbar {
+  background-color: var(--first-color) !important;
+}
+
+a {
+  color: white !important;
+}
+
+a.active {
+  color: var(--fourth-color) !important;
+  border-bottom: 1px solid var(--fourth-color);
+}
+
+button[aria-expanded="false"] > .close {
+  display: none;
+}
+
+button[aria-expanded="true"] > .open {
+  display: none;
+}
