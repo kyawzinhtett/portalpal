@@ -1,10 +1,10 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Link } from "react-router-dom";
 import Navbar from "./components/Navbar/Navbar";
-import Character from "./pages/Character";
 import Location from "./pages/Location";
 import Episode from "./pages/Episode";
 import CardDetail from "./components/Card/CardDetail";
+import Character from "./Pages/Character";
 
 function App() {
   return (
