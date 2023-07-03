@@ -19,7 +19,7 @@ const CardDetail = () => {
 
   return (
     <div className="container d-flex justify-content-center margin-top">
-      <div className="card shadow-sm rounded w-75 mt-5">
+      <div className="card shadow-sm rounded w-75 mt-5 mb-3">
         <div className="row">
           <div className="col-lg-5">
             <img
