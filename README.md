@@ -29,7 +29,7 @@ PortalPal offers the following features to enhance the user experience:
 
 2. Episode Exploration:
 
-- View: Access information about different episodes of the series, including episode names and summaries.
+- View: Access information about different episodes of the series, including episode names and air dates.
 - Filtering: Filter characters based on the episodes in which they appear, providing a convenient way to explore character connections within specific episodes.
 
 3. Location Exploration:
