@@ -8,10 +8,10 @@ With PortalPal, users can view, search, paginate, and filter characters from the
 
 The PortalPal application is built using the following technologies:
 
-- **React**: A JavaScript library for efficient and dynamic UI component rendering.
-- **Bootstrap**: A popular CSS framework with pre-designed components for responsive and visually appealing interfaces.
-- **React Router Dom**: A library for seamless navigation and routing within a React application.
-- **React Paginate**: A React component that enables pagination, simplifying the management of large data sets.
+- **React**
+- **Bootstrap**
+- **React Router Dom**
+- **React Paginate**
 
 ## Features
 
