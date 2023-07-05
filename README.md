@@ -8,10 +8,10 @@ With PortalPal, users can view, search, paginate, and filter characters from the
 
 The PortalPal application is built using the following technologies:
 
-- **React**
-- **Bootstrap**
-- **React Router Dom**
-- **React Paginate**
+- React
+- Bootstrap
+- React Router Dom
+- React Paginate
 
 ## Features
 
