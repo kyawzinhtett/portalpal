@@ -50,7 +50,7 @@ const Home = () => {
             the Rick and Morty series. Dive into the multiverse and uncover
             fascinating details about your favorite episodes.
           </p>
-          <Link to="/characters" href="" className="btn bg-green btn-lg mb-3">
+          <Link to="/characters" className="btn bg-green btn-lg mb-3">
             Get Started
           </Link>
         </div>
