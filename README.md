@@ -36,3 +36,15 @@ PortalPal offers the following features to enhance the user experience:
 
 - View: Explore various locations featured in the Rick & Morty universe, such as planets, dimensions, and more.
 - Filtering: Filter characters based on their associated locations, enabling users to discover characters from specific settings.
+
+## Getting Started
+
+To run the PortalPal application locally, follow these steps:
+
+1. Clone the repository: `git clone [repository-url]`
+2. Navigate to the project directory: `cd PortalPal`
+3. Install the dependencies: `npm install`
+4. Start the development server: `npm run dev`
+5. Open a web browser and visit: `http://localhost:5173`
+
+Please note that the application requires an active internet connection to fetch data from the rickandmorty API.
